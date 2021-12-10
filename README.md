@@ -5,8 +5,8 @@ Asignatura: Teoria de la Información y Codificación
 
 Integrantes: 
 Carlos Dauvergne / E-8-140261;
-Fidel García / 8-947-1467;
-Leonardo Gonzalez / 8-936-1205
+      Fidel García / 8-947-1467;
+      Leonardo Gonzalez / 8-936-1205
 
 Para proyecto final deben implementar un servidor de chat que permita la comunicacion entre dos o mas usuarios.
 
