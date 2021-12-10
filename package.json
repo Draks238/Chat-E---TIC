@@ -1,9 +1,9 @@
 {
-  "name": "encrypted-chat-tutorial",
-  "version": "1.0.0",
+  "name": "Chat Encriptado",
+  "version": "0.7.0",
   "node":"8.1.4",
   "license": "MIT",
-  "author": "patrick.triest@gmail.com",
+  "author": "Carlos Dauvergne, Fidel Garcia, Leonardo Gonzales, Aallan cedeño",
   "description": "End-to-end RSA-256 encrypted chat application.",
   "main": "app.js",
   "engines": {
