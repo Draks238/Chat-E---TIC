@@ -1,0 +1,19 @@
+{
+  "name": "Chat Encriptado",
+  "version": "0.7.0",
+  "node":"8.1.4",
+  "license": "MIT",
+  "author": "Carlos Dauvergne, Fidel Garcia, Leonardo Gonzales, Aallan cedeño",
+  "description": "End-to-end RSA-256 encrypted chat application.",
+  "main": "app.js",
+  "engines": {
+    "node": ">=7.6"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.15.3",
+    "socket.io": "2.0.3"
+  }
+}
