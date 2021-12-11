@@ -1,0 +1,10 @@
+                   Instruccion
+----------------------------------------------
+1.Descarque el archivo "Chat E" https://github.com/Draks238/Chat-E---TIC/blob/main/Chat%20E.rar
+ o copie todos los Archivo en una carpeta raiz llamada "Char E".
+2.Descarque e Instale nodejs https://nodejs.org/en/
+3.Depues de instalar nodejs -> Copie la carpeta "Chat E" en la dirrecion Disco local (C:).
+4.Ejecute el archivo "Instalar".
+5.Al finalizar de instalar ejecute el archivo "Ejecutar" y minimixe la ventaja.
+6.Abra en su navegador "localhost:3000".
+7.Listo
