@@ -1,10 +1,25 @@
                    Instruccion
-----------------------------------------------
+--------------------------------------------------
 1.Descarque el archivo "Chat E" https://github.com/Draks238/Chat-E---TIC/blob/main/Chat%20E.rar
  o copie todos los Archivo en una carpeta raiz llamada "Char E".
 2.Descarque e Instale nodejs https://nodejs.org/en/
 3.Depues de instalar nodejs -> Copie la carpeta "Chat E" en la dirrecion Disco local (C:).
 4.Ejecute el archivo "Instalar".
 5.Al finalizar de instalar ejecute el archivo "Ejecutar" y minimixe la ventaja.
-6.Abra en su navegador "localhost:3000".
+npm install
 7.Listo
+
+----------------------------------------------------
+
+                  Modo Manual o Consola
+
+1.Descarque el archivo "Chat E" https://github.com/Draks238/Chat-E---TIC/blob/main/Chat%20E.rar
+ o copie todos los Archivo en una carpeta raiz.
+2.Descarque e Instale nodejs https://nodejs.org/en/
+3.Depues de instalar nodejs -> Copie la carpeta raiz "nombre que le ponga" en la dirrecion Disco local (C:).
+4.Ejecute CMD".
+5.ingrese el comando "cd C:\nobre de la carpeta".
+6.Luego ingrese el comando "npm install" y espere a que finalice de instalar los archivos.
+7.Depues de terminar de instalar ingrese el comando "npm start" y minimixe la ventana.
+8.Abra en su navegador "localhost:3000".
+9.Listo
